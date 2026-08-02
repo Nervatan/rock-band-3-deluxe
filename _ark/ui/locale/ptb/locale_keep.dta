@@ -489,15 +489,15 @@
 )
 (acc_bass_dlc_funk49 "Funk in Public")
 (acc_bass_dlc_funk49_desc
-   "Play a 200-note streak on \qFunk #49\q by James Gang."
+   "Toque uma sequência de 200 notas em \qFunk #49\q, do James Gang."
 )
 (acc_bass_rb3_fchardestbutton "That's One Tricky Button")
 (acc_bass_rb3_fchardestbutton_desc
-   "Hit 100% das notas in \qThe Hardest Button to Button\q by The White Stripes on Expert Bass."
+   "Acerte 100% das notas em \qThe Hardest Button to Button\q, do The White Stripes, no Baixo Expert."
 )
 (acc_bass_rb3_streak "Bass Streaker")
 (acc_bass_rb3_streak_desc
-   "Earn 5 <alt>*</alt> on \qHoliday in Cambodia\q by Dead Kennedys on Bass."
+   "Ganhe 5 <alt>*</alt> em \qHoliday in Cambodia\q, do Dead Kennedys, no Baixo."
 )
 (acc_bresingle "Um Final Triunfante")
 (acc_bresingle_desc "Arrase e conquiste um Final Triunfante")
@@ -697,64 +697,64 @@
 (acc_cat_vox_rb3 "Rock Band 3")
 (acc_charactercreate "Sua Criação")
 (acc_charactercreate_desc "Crie um personagem.")
-(acc_complex_chords "More Chord Holding and Arpeggiation")
+(acc_complex_chords "Mais Sustentação de Acordes e Arpejo")
 (acc_complex_chords_desc
-   "Complete the More Chord Holding and Arpeggiation lesson."
+   "Complete a lição Mais Sustentação de Acordes e Arpejo."
 )
 (acc_createsetlist "Faça uma Mixtape")
 (acc_createsetlist_desc "Crie e compartilhe seu próprio repertório.")
-(acc_deploydrums "Drums Overdrive")
+(acc_deploydrums "Overdrive de Bateria")
 (acc_deploydrums_desc
-   "Go into Overdrive on Drums by hitting the special crash note at the end of a drum fill."
+   "Entre em Overdrive na Bateria acertando a nota especial de crash no final de uma virada de bateria."
 )
-(acc_deployguitar "Guitar Showmanship")
-(acc_deployguitarfour "Guitar Showmanship")
+(acc_deployguitar "Habilidade Cênica de Guitarra")
+(acc_deployguitarfour "Habilidade Cênica de Guitarra")
 (acc_deployguitarfour_desc
-   "Go into Overdrive 4 times in a single song on Guitar."
+   "Entre em Overdrive 4 vezes em uma única música na Guitarra."
 )
-(acc_deployguitaronce "Guitar Overdrive")
-(acc_deployguitaronce_desc "Go into Overdrive on Guitar.")
-(acc_deploykeys "Keys Overdrive")
-(acc_deploykeysfourtimes "Keys Showmanship")
+(acc_deployguitaronce "Overdrive de Guitarra")
+(acc_deployguitaronce_desc "Entre em Overdrive na Guitarra.")
+(acc_deploykeys "Overdrive de Teclado")
+(acc_deploykeysfourtimes "Habilidade Cênica de Teclado")
 (acc_deploykeysfourtimes_desc
-   "Go into Overdrive 4 times in a single song on Keys."
+   "Entre em Overdrive 4 vezes em uma única música no Teclado."
 )
-(acc_deploykeys_desc "Go into Overdrive on Keys.")
-(acc_deployoverdrivehundredtimes "Spotlight Hog")
-(acc_deployoverdrivehundredtimesprodrum "Deploy Overdrive 100 Times")
+(acc_deploykeys_desc "Entre em Overdrive no Teclado.")
+(acc_deployoverdrivehundredtimes "Chupa Cabra dos Holofotes")
+(acc_deployoverdrivehundredtimesprodrum "Ative o Overdrive 100 Vezes")
 (acc_deployoverdrivehundredtimesprodrum_desc
-   "Deploy Overdrive 100 times on Pro Drums."
+   "Ative o Overdrive 100 vezes na Bateria PRO."
 )
 (acc_deployoverdrivehundredtimes_desc
-   "Go into Overdrive 100 times on Guitar."
+   "Entre em Overdrive 100 vezes na Guitarra."
 )
-(acc_deployprodrumsfour "4 Overdrive Deploys Drums")
+(acc_deployprodrumsfour "4 Overdrives na Bateria PRO")
 (acc_deployprodrumsfour_desc
-   "Go into Overdrive 4 times in a single song on Pro Drums."
+   "Entre em Overdrive 4 vezes em uma única música na Bateria PRO."
 )
-(acc_deployprodrumsonce "Pro Drums Overdrive")
-(acc_deployprodrumsonce_desc "Go into Overdrive once on Pro Drums.")
-(acc_deployprokeys "Pro Keys Overdrive")
-(acc_deployprokeysfourtimes "Pro Keys Showmanship")
+(acc_deployprodrumsonce "Overdrive de Bateria PRO")
+(acc_deployprodrumsonce_desc "Entre em Overdrive uma vez na Bateria PRO.")
+(acc_deployprokeys "Overdrive de Teclado PRO")
+(acc_deployprokeysfourtimes "Habilidade Cênica de Teclado PRO")
 (acc_deployprokeysfourtimes_desc
-   "Go into Overdrive 4 times in a single song on Pro Keys."
+   "Entre em Overdrive 4 vezes em uma única música no Teclado PRO."
 )
-(acc_deployprokeys_desc "Go into Overdrive on Pro Keys.")
-(acc_deployvocals "Vocals Showmanship")
-(acc_deployvocalsonce "Vocals Overdrive")
-(acc_deployvocalsonce_desc "Go into Overdrive on Vocals.")
-(acc_deployvocalsonehundred "100 Screams")
-(acc_deployvocalsonehundred_desc "Go into Overdrive 100 times on Vocals.")
+(acc_deployprokeys_desc "Entre em Overdrive no Teclado PRO.")
+(acc_deployvocals "Habilidade Cênica de Vocal")
+(acc_deployvocalsonce "Overdrive de Vocal")
+(acc_deployvocalsonce_desc "Entre em Overdrive no Vocal.")
+(acc_deployvocalsonehundred "100 Gritos")
+(acc_deployvocalsonehundred_desc "Entre em Overdrive 100 vezes no Vocal.")
 (acc_deployvocals_desc
-   "Go into Overdrive 4 times in a single song on Vocals."
+   "Entre em Overdrive 4 vezes em uma única música no Vocal."
 )
-(acc_discodrummer "Disco Drums")
+(acc_discodrummer "Bateria Disco")
 (acc_discodrummer_desc
-   "Earn 4 <alt>*</alt> on the following songs that use the \qdisco flip\q technique on Medium Drums."
+   "Conquiste 4 <alt>*</alt> nas seguintes músicas que usam a técnica \qdisco flip\q na Bateria Médio."
 )
 (acc_dlc_5starmetaltp "Rock Band Metal Track Pack")
 (acc_dlc_5starmetaltp_desc
-   "Earn at least 2 <alt>*</alt> on all 20 songs in the Rock Band Metal Track Pack."
+   "Conquiste pelo menos 2 <alt>*</alt> em todas as 20 músicas do Rock Band Metal Track Pack."
 )
 (acc_dlc_addictedtodlcsongs "Viciado em Downloads")
 (acc_dlc_addictedtodlcsongs_desc
@@ -762,97 +762,97 @@
 )
 (acc_dlc_alltp2 "Rock Band Track Pack Volume 2")
 (acc_dlc_alltp2_desc
-   "Earn at least 2 <alt>*</alt> on all 20 songs in the Rock Band Track Pack Volume 2."
+   "Conquiste pelo menos 2 <alt>*</alt> em todas as 20 músicas do Rock Band Track Pack Volume 2."
 )
 (acc_dlc_appelemoimoncheri "Appelle-moi Mon Cherie")
 (acc_dlc_appelemoimoncheri_desc
-   "Earn 5 <alt>*</alt> on \qCall Me\q by Blondie on Vocals."
+   "Ganhe 5 <alt>*</alt> em \qCall Me\q, do Blondie, no Vocal."
 )
 (acc_dlc_bowdown "Bow Down")
-(acc_dlc_bowdown_desc "Beat \qThrasher\q on Expert Drums.")
+(acc_dlc_bowdown_desc "Vença \qThrasher\q na Bateria Expert.")
 (acc_dlc_bringhomethebacon "Bring Home the Bacon")
 (acc_dlc_bringhomethebacon_desc
-   "Earn 5 <alt>*</alt> on \qEl Scorcho\q by Weezer on Vocals."
+   "Ganhe 5 <alt>*</alt> em \qEl Scorcho\q, do Weezer, no Vocal."
 )
 (acc_dlc_burma "Secrets Promised Us")
 (acc_dlc_burma_desc
-   "Earn 5 <alt>*</alt> on \qThat's When I Reach for My Revolver,\q \qMica,\q and \qThat's How I Escaped My Certain Fate\q by Mission of Burma on Expert Guitar."
+   "Ganhe 5 <alt>*</alt> em \qThat's When I Reach for My Revolver,\q \qMica,\q e \qThat's How I Escaped My Certain Fate\q, do Mission of Burma, na Guitarra Expert."
 )
 (acc_dlc_classictpeverything "Rock Band Track Pack Classic Rock")
 (acc_dlc_classictpeverything_desc
-   "Earn at least 2 <alt>*</alt> on all 20 songs in the Rock Band Track Pack Classic Rock."
+   "Conquiste pelo menos 2 <alt>*</alt> em todas as 20 músicas do Rock Band Track Pack Classic Rock."
 )
 (acc_dlc_closer "The Right Direction")
 (acc_dlc_closer_desc
-   "Hit 100% das notas in \qCloser\q by Lacuna Coil on Bass."
+   "Acerte 100% das notas em \qCloser\q, do Lacuna Coil, no Baixo."
 )
 (acc_dlc_doitformutt "Do It for Mutt")
 (acc_dlc_doitformutt_desc
-   "Make Mutt Bang, alleged Bang Camaro lyricist, proud by earning 5 <alt>*</alt> on the Bang Camaro songs on Vocals."
+   "Deixe Mutt Bang, suposto letrista do Bang Camaro, orgulhoso ganhando 5 <alt>*</alt> nas músicas do Bang Camaro no Vocal."
 )
 (acc_dlc_doolittle "Be a Debaser")
 (acc_dlc_doolittle_desc
-   "Earn at least 50 <alt>*</alt> in a single setlist playthrough of the entire \qDoolittle\q album by the Pixies."
+   "Ganhe pelo menos 50 <alt>*</alt> jogando de uma vez todo o repertório do álbum \qDoolittle\q, dos Pixies."
 )
 (acc_dlc_eachmustknowhispart "Each Must Know His/Her Part")
 (acc_dlc_eachmustknowhispart_desc
-   "Earn 5 <alt>*</alt> on \qCloser to the Heart\q by Rush on Drums."
+   "Ganhe 5 <alt>*</alt> em \qCloser to the Heart\q, do Rush, na Bateria."
 )
 (acc_dlc_everycountrytpsong "Rock Band Country Track Pack")
 (acc_dlc_everycountrytpsong_desc
-   "Earn at least 2 <alt>*</alt> on all 21 songs in the Rock Band Country Track Pack."
+   "Conquiste pelo menos 2 <alt>*</alt> em todas as 21 músicas do Rock Band Country Track Pack."
 )
 (acc_dlc_gagaforgaga "Little Monsters")
 (acc_dlc_gagaforgaga_desc
-   "Earn 5 <alt>*</alt> on the following Lady Gaga songs on Vocals:"
+   "Ganhe 5 <alt>*</alt> nas seguintes músicas da Lady Gaga no Vocal:"
 )
 (acc_dlc_get5starsonfreesongs "Live Free or Die")
 (acc_dlc_get5starsonfreesongs_desc
-   "Beat the following free downloadable songs:"
+   "Vença as seguintes músicas baixáveis gratuitas:"
 )
 (acc_dlc_gonnaliveitup "Gonna Live It Up")
 (acc_dlc_gonnaliveitup_desc
-   "Earn 5 <alt>*</alt> on \qYou've Got Another Thing Comin'\q by Judas Priest on Guitar."
+   "Ganhe 5 <alt>*</alt> em \qYou've Got Another Thing Comin'\q, do Judas Priest, na Guitarra."
 )
 (acc_dlc_happyfaces "Happy Faces")
 (acc_dlc_happyfaces_desc
-   "Improvise your way through this truly unique list of songs to earn 5 <alt>*</alt> on Medium Vocals."
+   "Improvise por esta lista realmente única de músicas para ganhar 5 <alt>*</alt> no Vocal Médio."
 )
 (acc_dlc_harddrivefiller "Hard Drive Filler")
 (acc_dlc_harddrivefiller_desc
-   "You would have filled an average-sized hard drive with songs by now! After playing them all, contact @deliciousbees on Twitter for a thank you prize!"
+   "Você já teria enchido um HD de tamanho médio com músicas até agora! Depois de jogar todas elas, contate @deliciousbees no Twitter para um prêmio de agradecimento!"
 )
-(acc_dlc_hmxfan "Shameless Self-Promotion")
+(acc_dlc_hmxfan "Autopromoção Sem Vergonha")
 (acc_dlc_hmxfan_desc
-   "Download and play 3 songs from a band featuring a Harmonix team member."
+   "Baixe e jogue 3 músicas de uma banda que tenha um membro da equipe da Harmonix."
 )
-(acc_dlc_hmxpunks "Buncha Punks!")
+(acc_dlc_hmxpunks "Um Bando de Punks!")
 (acc_dlc_hmxpunks_desc
-   "Prove that you've got these in your record collection by earning 4 <alt>*</alt> on Hard Drums."
+   "Prove que você tem estas músicas na sua coleção ganhando 4 <alt>*</alt> na Bateria Difícil."
 )
 (acc_dlc_imaleadingman "P-p-p-parties!")
 (acc_dlc_imaleadingman_desc
-   "Earn 5 <alt>*</alt> on \qThis Ain't A Scene, It's An Arms Race\q by Fall Out Boy."
+   "Ganhe 5 <alt>*</alt> em \qThis Ain't A Scene, It's An Arms Race\q, do Fall Out Boy."
 )
 (acc_dlc_inthemoment "In the Moment")
 (acc_dlc_inthemoment_desc
-   "Nail 100% of the phrases in \qForever\q by In This Moment on Vocals."
+   "Acerte 100% das frases em \qForever\q, do In This Moment, no Vocal."
 )
 (acc_dlc_iunderstandaboutcompletion "Understand About Competition")
 (acc_dlc_iunderstandaboutcompletion_desc
-   "Earn 5 <alt>*</alt> on \qPeace of Mind\q by Boston on Vocals."
+   "Ganhe 5 <alt>*</alt> em \qPeace of Mind\q, do Boston, no Vocal."
 )
 (acc_dlc_johndrakeaward "The Workaholic Award")
 (acc_dlc_johndrakeaward_desc
-   "Earn 5 <alt>*</alt> on every song by The Main Drag on Expert Drums."
+   "Ganhe 5 <alt>*</alt> em todas as músicas do The Main Drag na Bateria Expert."
 )
 (acc_dlc_justanotherbandoutofboston "Just Another Band Out of Boston")
 (acc_dlc_justanotherbandoutofboston_desc
-   "Earn 5 <alt>*</alt> on any song by Boston."
+   "Ganhe 5 <alt>*</alt> em qualquer música do Boston."
 )
-(acc_dlc_obsessivecompulsive "True Music Fan")
+(acc_dlc_obsessivecompulsive "Verdadeiro Fã de Música")
 (acc_dlc_obsessivecompulsive_desc
-   "Um, you own over 1,000 songs and have played all of them. You pretty much rule. Thank you, from everyone at Harmonix!"
+   "Hmm, você tem mais de 1.000 músicas e já jogou todas elas. Você praticamente arrasa. Obrigado, de todo o time da Harmonix!"
 )
 (acc_dlc_play5dlcsong "Pra Contar nos Dedos")
 (acc_dlc_play5dlcsong_desc "Jogue 5 músicas baixadas.")
@@ -863,127 +863,127 @@
 (acc_dlc_playanyqueen "I Want It All")
 (acc_dlc_playanyqueen_desc "Jogue uma música baixada do Queen.")
 (acc_dlc_playrbnsong "Network Initiate")
-(acc_dlc_playrbnsong_desc "Play a Rock Band Network song.")
+(acc_dlc_playrbnsong_desc "Jogue uma música da Rock Band Network.")
 (acc_dlc_playtwentydlcsongs "Coleção Decente")
 (acc_dlc_playtwentydlcsongs_desc "Jogue 20 músicas baixadas.")
 (acc_dlc_popusopus "Pope's Opus")
 (acc_dlc_popusopus_desc
-   "Hold onto your hat and 5 <alt>*</alt> these songs on Expert Vocals."
+   "Segure seu chapéu e ganhe 5 <alt>*</alt> nestas músicas no Vocal Expert."
 )
 (acc_dlc_robbinbankswithasixgun "Breakin' Rocks in the Hot Sun")
 (acc_dlc_robbinbankswithasixgun_desc
-   "Earn 5 <alt>*</alt> on \qI Fought the Law\q on Drums."
+   "Ganhe 5 <alt>*</alt> em \qI Fought the Law\q na Bateria."
 )
 (acc_dlc_smoothtalkin "Smooth Talkin'")
 (acc_dlc_smoothtalkin_desc
-   "Earn 5 <alt>*</alt> on \qSuds in the Bucket\q by Sara Evans on Vocals."
+   "Ganhe 5 <alt>*</alt> em \qSuds in the Bucket\q, da Sara Evans, no Vocal."
 )
 (acc_dlc_somepeoplecallmemaurice "Pompatus of Love")
 (acc_dlc_somepeoplecallmemaurice_desc
-   "Earn 5 <alt>*</alt> on \qThe Joker\q by Steve Miller Band on Vocals."
+   "Ganhe 5 <alt>*</alt> em \qThe Joker\q, do Steve Miller Band, no Vocal."
 )
-(acc_dlc_songsforkr "Mom's Favorites")
+(acc_dlc_songsforkr "Favoritas da Mamãe")
 (acc_dlc_songsforkr_desc
-   "Dance around and embarrass your kids while you 3 <alt>*</alt> all these songs on Vocals."
+   "Dance por aí e envergonhe seus filhos enquanto você ganha 3 <alt>*</alt> em todas estas músicas no Vocal."
 )
-(acc_dlc_thebestgoal "Give It Your Best")
+(acc_dlc_thebestgoal "Dê o Seu Melhor")
 (acc_dlc_thebestgoal_desc
-   "Get 5 <alt>*</alt> on all the 'Best' songs Rock Band has to offer."
+   "Conquiste 5 <alt>*</alt> em todas as músicas \qBest\q que o Rock Band tem a oferecer."
 )
 (acc_dlc_thefifthcircle "Fire-breathing Beauty")
 (acc_dlc_thefifthcircle_desc
-   "Earn 5 <alt>*</alt> on \qRed Devil\q by Yngwie Malmsteen on Vocals."
+   "Ganhe 5 <alt>*</alt> em \qRed Devil\q, do Yngwie Malmsteen, no Vocal."
 )
 (acc_dlc_thelogarhythms "The Logarhythms")
 (acc_dlc_thelogarhythms_desc
-   "Earn 5 <alt>*</alt> on the following songs on Expert Vocals to prove you've still got the chops:"
+   "Ganhe 5 <alt>*</alt> nas seguintes músicas no Vocal Expert para provar que você ainda tem talento:"
 )
 (acc_dlc_trinity "The Trinity")
-(acc_dlc_trinity_desc "Beat the following 3 Metal masterpieces:")
+(acc_dlc_trinity_desc "Vença as seguintes 3 obras-primas do Metal:")
 (acc_dlc_ugcindie "Turminha Indie")
 (acc_dlc_ugcindie_desc
    "Conquiste 5 <alt>*</alt> em 5 músicas baixadas/da Rock Band Network do gênero Rock Indie."
 )
-(acc_dlc_ugcmetal "MORE METAL")
+(acc_dlc_ugcmetal "MAIS METAL")
 (acc_dlc_ugcmetal_desc
-   "Earn 5 <alt>*</alt> on any 5 Metal songs from the Rock Band Network."
+   "Ganhe 5 <alt>*</alt> em quaisquer 5 músicas de Metal da Rock Band Network."
 )
-(acc_dlc_ugcmoderators "Smooth Moderators")
+(acc_dlc_ugcmoderators "Moderadores Suaves")
 (acc_dlc_ugcmoderators_desc
-   "Earn 4 <alt>*</alt> on any 3 songs from the Rock Band Network by The Everybody, Kristin Hersh, James William Roy, Pink Flag, Parry Gripp, Joe Sibol, or Aminal."
+   "Ganhe 4 <alt>*</alt> em quaisquer 3 músicas da Rock Band Network de The Everybody, Kristin Hersh, James William Roy, Pink Flag, Parry Gripp, Joe Sibol, ou Aminal."
 )
-(acc_dlc_ugcnerd "Famous Last Nerds")
+(acc_dlc_ugcnerd "Últimos Nerds Famosos")
 (acc_dlc_ugcnerd_desc
-   "Earn 4 <alt>*</alt> on any 3 songs by Jonathan Coulton, Parry Gripp, or MC Frontalot from the Rock Band Network."
+   "Ganhe 4 <alt>*</alt> em quaisquer 3 músicas de Jonathan Coulton, Parry Gripp, ou MC Frontalot da Rock Band Network."
 )
 (acc_dlc_ugcrap "Yo! RBN Raps")
 (acc_dlc_ugcrap_desc
-   "4 <alt>*</alt> on any 3 songs by Alias Unknown, MC Frontalot, and Hyro Da Hero from the Rock Band Network."
+   "4 <alt>*</alt> em quaisquer 3 músicas de Alias Unknown, MC Frontalot, e Hyro Da Hero da Rock Band Network."
 )
-(acc_dlc_voiceofjlv "Voice Of An Angel")
+(acc_dlc_voiceofjlv "Voz de um Anjo")
 (acc_dlc_voiceofjlv_desc
-   "Stop playing with your puppy long enough to 5 <alt>*</alt> these songs on Expert Vocals."
+   "Pare de brincar com seu cachorrinho por tempo suficiente para ganhar 5 <alt>*</alt> nestas músicas no Vocal Expert."
 )
-(acc_dlc_welchizbestgoal "Give It Your Best")
+(acc_dlc_welchizbestgoal "Dê o Seu Melhor")
 (acc_dlc_welchizbestgoal_desc
-   "Earn 5 <alt>*</alt> on all the \qbest\q downloadable songs."
+   "Ganhe 5 <alt>*</alt> em todas as músicas baixáveis \qbest\q."
 )
-(acc_dlc_weloveclaudio "Armory Wars")
+(acc_dlc_weloveclaudio "Guerras de Armaduras")
 (acc_dlc_weloveclaudio_desc
-   "Earn 5 <alt>*</alt> on the following songs by Coheed and Cambria on Guitar:"
+   "Ganhe 5 <alt>*</alt> nas seguintes músicas do Coheed and Cambria na Guitarra:"
 )
-(acc_dlc_youreastarbellysneech "Parade Your Snazz")
+(acc_dlc_youreastarbellysneech "Exiba seu estilo!")
 (acc_dlc_youreastarbellysneech_desc
-   "Earn 5 <alt>*</alt> on \qHoliday in Cambodia\q by Dead Kennedys on Bass."
+   "Ganhe 5 <alt>*</alt> em \qHoliday in Cambodia\q, do Dead Kennedys, no Baixo."
 )
-(acc_doubleawesome "Double Awesome")
-(acc_doubleawesomeall "Always Double Awesome")
+(acc_doubleawesome "Duplamente Incrível")
+(acc_doubleawesomeall "Sempre Duplamente Incrível")
 (acc_doubleawesomeall_desc
-   "Earn a Double Awesome rating on every Vocal Harmony phrase in Rock Band 3."
+   "Ganhe uma qualificação Duplamente Incrível em todas as frases de Harmonia Vocal do Rock Band 3."
 )
-(acc_doubleawesomealot "100 Double Awesomes")
+(acc_doubleawesomealot "100 Duplamente Incríveis")
 (acc_doubleawesomealot_desc
-   "Earn a Double Awesome rating on 100 Vocal Harmony phrases."
+   "Ganhe uma qualificação Duplamente Incrível em 100 frases de Harmonia Vocal."
 )
-(acc_doubleawesomesome "50 Double Awesomes")
+(acc_doubleawesomesome "50 Duplamente Incríveis")
 (acc_doubleawesomesome_desc
-   "Earn a Double Awesome rating on 50 Vocal Harmony phrases."
+   "Ganhe uma qualificação Duplamente Incrível em 50 frases de Harmonia Vocal."
 )
 (acc_doubleawesomesong "200% Awesome")
 (acc_doubleawesomesong_desc
-   "Earn a Double Awesome rating on every Vocal Harmony phrase in a single song."
+   "Ganhe uma qualificação Duplamente Incrível em todas as frases de Harmonia Vocal em uma única música."
 )
 (acc_doubleawesome_desc
-   "Earn a Double Awesome rating on a single Vocal Harmony phrase."
+   "Ganhe uma qualificação Duplamente Incrível em uma única frase de Harmonia Vocal."
 )
-(acc_drumfill170 "Fill It Up on Drums")
+(acc_drumfill170 "Encha a Bateria")
 (acc_drumfill170_desc
-   "Complete 170 drum fills by hitting the crash note at the end of each fill."
+   "Complete 170 viradas de bateria acertando a nota de crash no final de cada virada."
 )
-(acc_drumfillsingle "Drum Fill")
+(acc_drumfillsingle "Virada de Bateria")
 (acc_drumfillsingle_desc
-   "Complete a single drum fill by hitting the crash note at the end of the fill."
+   "Complete uma única virada de bateria acertando a nota de crash no final da virada."
 )
-(acc_drumfillthree "3 Drum Fills")
+(acc_drumfillthree "3 Viradas de Bateria")
 (acc_drumfillthree_desc
-   "Complete 3 drum fills in a single song by hitting the crash note at the end of each fill."
+   "Complete 3 viradas de bateria em uma única música acertando a nota de crash no final de cada virada."
 )
-(acc_drumlegends "Remember the Legends")
+(acc_drumlegends "Lembre das Lendas")
 (acc_drumlegends_desc
-   "Earn at least 4 <alt>*</alt> playing Expert Drums on the following songs featuring drummers who are no longer with us."
+   "Ganhe pelo menos 4 <alt>*</alt> jogando na Bateria Expert as seguintes músicas com bateristas que já não estão mais entre nós."
 )
-(acc_drummachine "Better Than a Drum Machine")
+(acc_drummachine "Melhor que uma Bateria Eletrônica")
 (acc_drummachine_desc
-   "Acerte pelo menos 90% das notas on the following songs featuring drum machines on Medium, Hard, or Expert Drums."
+   "Acerte pelo menos 90% das notas nas seguintes músicas com baterias eletrônicas na Bateria Médio, Difícil, ou Expert."
 )
-(acc_drumpeak "Drums to the Max")
-(acc_drumpeak_desc "Max out your score multiplier on Drums.")
-(acc_drumroll "Drum Roll, Please!")
-(acc_drumroll2 "20 Drum Rolls")
-(acc_drumroll2_desc "Play 20 drum rolls.")
-(acc_drumroll3 "50 Drum Rolls")
-(acc_drumroll3_desc "Play 50 drum rolls.")
-(acc_drumroll_desc "Play a drum roll.")
+(acc_drumpeak "Bateria no Máximo")
+(acc_drumpeak_desc "Maximize o Multiplicador de Pontos na Bateria.")
+(acc_drumroll "Rufada de Bateria, Por Favor!")
+(acc_drumroll2 "20 Rufadas de Bateria")
+(acc_drumroll2_desc "Toque 20 rufadas de bateria.")
+(acc_drumroll3 "50 Rufadas de Bateria")
+(acc_drumroll3_desc "Toque 50 rufadas de bateria.")
+(acc_drumroll_desc "Toque uma rufada de bateria.")
 (acc_drumsbossexpert "Indução ao Hall da Fama: Expert")
 (acc_drumsbossexpert_desc
    "Complete o Repertório de Indução ao Hall da Fama na Bateria na dificuldade Expert e conquiste mais de 32 <alt>*</alt> para ser empossado no Hall da Fama do Rock Band."
@@ -996,607 +996,607 @@
 (acc_drumsbossmedium_desc
    "Complete o Repertório de Indução ao Hall da Fama na Bateria na dificuldade Médio e conquiste mais de 32 <alt>*</alt> para ser empossado no Hall da Fama do Rock Band."
 )
-(acc_drumstreak "Drums Streak 100")
-(acc_drumstreaklong "Drums Streak 500")
-(acc_drumstreaklong_desc "Play a 500-note streak on Drums.")
-(acc_drumstreakmedium "Drums Streak 300")
-(acc_drumstreakmedium_desc "Play a 300-note streak on Drums.")
-(acc_drumstreak_desc "Play a 100-note streak on Drums.")
+(acc_drumstreak "Combo de Bateria 100")
+(acc_drumstreaklong "Combo de Bateria 500")
+(acc_drumstreaklong_desc "Toque um combo de 500 notas na Bateria.")
+(acc_drumstreakmedium "Combo de Bateria 300")
+(acc_drumstreakmedium_desc "Toque um combo de 300 notas na Bateria.")
+(acc_drumstreak_desc "Toque um combo de 100 notas na Bateria.")
 (acc_drums_dlc_theperfectdrug "The Perfect Drug")
 (acc_drums_dlc_theperfectdrug_desc
-   "Play a 200-note streak on \qThe Perfect Drug\q on Drums."
+   "Toque um combo de 200 notas em \qThe Perfect Drug\q na Bateria."
 )
-(acc_drums_rb3_get5stars "Amazing Drummer")
+(acc_drums_rb3_get5stars "Baterista Incrível")
 (acc_drums_rb3_get5stars_desc
-   "Earn 5 <alt>*</alt> on Drums on the following songs:"
+   "Ganhe 5 <alt>*</alt> na Bateria nas seguintes músicas:"
 )
-(acc_drums_rb3_percentage "Top Tier Drummer")
+(acc_drums_rb3_percentage "Baterista de Elite")
 (acc_drums_rb3_percentage_desc
-   "Acerte pelo menos 90% das notas on the following songs on Drums:"
+   "Acerte pelo menos 90% das notas nas seguintes músicas na Bateria:"
 )
-(acc_drums_rb3_streak "Consistent Drummer")
+(acc_drums_rb3_streak "Baterista Consistente")
 (acc_drums_rb3_streak_desc
-   "Get a 250-note streak on Drums on the following songs:"
+   "Consiga um combo de 250 notas na Bateria nas seguintes músicas:"
 )
-(acc_drumtrainergoal1 "Drum Trainer Initiate")
+(acc_drumtrainergoal1 "Iniciante do Treino de Bateria")
 (acc_drumtrainergoal1_desc
-   "Complete the following Introductory Drum Trainer lessons:"
+   "Complete as seguintes lições Introdutórias do Treino de Bateria:"
 )
-(acc_drumtrainergoal2 "Drum Trainer Sophomore")
+(acc_drumtrainergoal2 "Segundanista do Treino de Bateria")
 (acc_drumtrainergoal2_desc
-   "Complete the following Intermediate Drum Trainer lessons:"
+   "Complete as seguintes lições Intermediárias do Treino de Bateria:"
 )
-(acc_drumtrainergoal3 "Drum Trainer Graduate")
-(acc_drumtrainergoal3_desc "Complete the following Hard Drum Lessons:")
-(acc_drumtrainergoal4 "Pro Drums Lessons")
-(acc_drumtrainergoal4_desc "Complete the following Expert Drum Lessons:")
-(acc_drumunison "Drums in True Unison")
-(acc_drumunison_desc "Nail 10 Unison Phrases on Drums as part of a band.")
-(acc_easybandteir1 "Easy Warmup Band")
+(acc_drumtrainergoal3 "Formado do Treino de Bateria")
+(acc_drumtrainergoal3_desc "Complete as seguintes Lições Difíceis de Bateria:")
+(acc_drumtrainergoal4 "Lições de Bateria PRO")
+(acc_drumtrainergoal4_desc "Complete as seguintes Lições Expert de Bateria:")
+(acc_drumunison "Bateria em Verdadeira União")
+(acc_drumunison_desc "Acerte 10 Unison Phrases na Bateria como parte de uma banda.")
+(acc_easybandteir1 "Banda Fácil: Aquecimento")
 (acc_easybandteir1_desc
-   "Get 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Easy as a Band."
+   "Conquiste 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 no Fácil como Banda."
 )
-(acc_easybandteir2 "Easy Apprentice Band")
+(acc_easybandteir2 "Banda Fácil: Aprendiz")
 (acc_easybandteir2_desc
-   "Get 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Easy as a Band."
+   "Conquiste 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 no Fácil como Banda."
 )
-(acc_easybandteir3 "Easy Solid Band")
+(acc_easybandteir3 "Banda Fácil: Sólido")
 (acc_easybandteir3_desc
-   "Get 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Easy as a Band."
+   "Conquiste 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 no Fácil como Banda."
 )
-(acc_easybandteir4 "Easy Moderate Band")
+(acc_easybandteir4 "Banda Fácil: Moderado")
 (acc_easybandteir4_desc
-   "Get 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Easy as a Band."
+   "Conquiste 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 no Fácil como Banda."
 )
-(acc_easybandteir5 "Easy Challenging Band")
+(acc_easybandteir5 "Banda Fácil: Desafiador")
 (acc_easybandteir5_desc
-   "Get 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Easy as a Band."
+   "Conquiste 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 no Fácil como Banda."
 )
-(acc_easybandteir6 "Easy Nightmare Band")
+(acc_easybandteir6 "Banda Fácil: Pesadelo")
 (acc_easybandteir6_desc
-   "Get 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Easy as a Band."
+   "Conquiste 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 no Fácil como Banda."
 )
-(acc_easybandteir7 "Easy Impossible Band")
+(acc_easybandteir7 "Banda Fácil: Impossível")
 (acc_easybandteir7_desc
-   "Get 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Easy as a Band."
+   "Conquiste 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 no Fácil como Banda."
 )
-(acc_easybassteir1 "Easy Warmup Bass")
+(acc_easybassteir1 "Baixo Fácil: Aquecimento")
 (acc_easybassteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Easy Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 no Baixo Fácil."
 )
-(acc_easybassteir2 "Easy Apprentice Bass")
+(acc_easybassteir2 "Baixo Fácil: Aprendiz")
 (acc_easybassteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Easy Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 no Baixo Fácil."
 )
-(acc_easybassteir3 "Easy Solid Bass")
+(acc_easybassteir3 "Baixo Fácil: Sólido")
 (acc_easybassteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Easy Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 no Baixo Fácil."
 )
-(acc_easybassteir4 "Easy Moderate Bass")
+(acc_easybassteir4 "Baixo Fácil: Moderado")
 (acc_easybassteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Easy Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 no Baixo Fácil."
 )
-(acc_easybassteir5 "Easy Challenging Bass")
+(acc_easybassteir5 "Baixo Fácil: Desafiador")
 (acc_easybassteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Easy Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 no Baixo Fácil."
 )
-(acc_easybassteir6 "Easy Nightmare Bass")
+(acc_easybassteir6 "Baixo Fácil: Pesadelo")
 (acc_easybassteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Easy Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 no Baixo Fácil."
 )
-(acc_easybassteir7 "Easy Impossible Bass")
+(acc_easybassteir7 "Baixo Fácil: Impossível")
 (acc_easybassteir7_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Impossible songs on Easy Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Impossível do Rock Band 3 no Baixo Fácil."
 )
-(acc_easydrumsteir1 "Easy Warmup Drums")
+(acc_easydrumsteir1 "Bateria Fácil: Aquecimento")
 (acc_easydrumsteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Easy Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 na Bateria Fácil."
 )
-(acc_easydrumsteir2 "Easy Apprentice Drums")
+(acc_easydrumsteir2 "Bateria Fácil: Aprendiz")
 (acc_easydrumsteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Easy Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 na Bateria Fácil."
 )
-(acc_easydrumsteir3 "Easy Solid Drums")
+(acc_easydrumsteir3 "Bateria Fácil: Sólido")
 (acc_easydrumsteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Easy Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 na Bateria Fácil."
 )
-(acc_easydrumsteir4 "Easy Moderate Drums")
+(acc_easydrumsteir4 "Bateria Fácil: Moderado")
 (acc_easydrumsteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Easy Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 na Bateria Fácil."
 )
-(acc_easydrumsteir5 "Easy Challenging Drums")
+(acc_easydrumsteir5 "Bateria Fácil: Desafiador")
 (acc_easydrumsteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Easy Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 na Bateria Fácil."
 )
-(acc_easydrumsteir6 "Easy Nightmare Drums")
+(acc_easydrumsteir6 "Bateria Fácil: Pesadelo")
 (acc_easydrumsteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Easy Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 na Bateria Fácil."
 )
-(acc_easydrumsteir7 "Easy Impossible Drums")
+(acc_easydrumsteir7 "Bateria Fácil: Impossível")
 (acc_easydrumsteir7_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Impossible songs on Easy Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Impossível do Rock Band 3 na Bateria Fácil."
 )
-(acc_easydrumteir1 "Easy Warmup Drums")
+(acc_easydrumteir1 "Bateria Fácil: Aquecimento")
 (acc_easydrumteir1_desc
-   "Earn 5 <alt>*</alt> on ten songs from either the Warmup or the Apprentice difficulty tier on Drums."
+   "Ganhe 5 <alt>*</alt> em dez músicas da categoria de Aquecimento ou Aprendiz na Bateria."
 )
-(acc_easydrumteir2 "Easy Apprentice Drums")
+(acc_easydrumteir2 "Bateria Fácil: Aprendiz")
 (acc_easydrumteir2_desc
-   "Earn 5 <alt>*</alt> on five Apprentice songs on Drums."
+   "Ganhe 5 <alt>*</alt> em cinco músicas de Aprendiz na Bateria."
 )
-(acc_easydrumteir3 "Easy Solid Drums")
+(acc_easydrumteir3 "Bateria Fácil: Sólido")
 (acc_easydrumteir3_desc
-   "Earn 5 <alt>*</alt> on ten songs from either the Solid or the Moderate difficulty tier on Drums."
+   "Ganhe 5 <alt>*</alt> em dez músicas da categoria de Sólido ou Moderado na Bateria."
 )
-(acc_easydrumteir4 "Easy Moderate Drums")
+(acc_easydrumteir4 "Bateria Fácil: Moderado")
 (acc_easydrumteir4_desc
-   "Earn 5 <alt>*</alt> on five Moderate songs on Drums."
+   "Ganhe 5 <alt>*</alt> em cinco músicas de Moderado na Bateria."
 )
-(acc_easydrumteir5 "Easy Challenging Drums")
+(acc_easydrumteir5 "Bateria Fácil: Desafiador")
 (acc_easydrumteir5_desc
-   "Earn 5 <alt>*</alt> on ten songs from either the Challenging or the Nightmare difficulty tier on Drums."
+   "Ganhe 5 <alt>*</alt> em dez músicas da categoria de Desafiador ou Pesadelo na Bateria."
 )
-(acc_easydrumteir6 "Easy Nightmare Drums")
+(acc_easydrumteir6 "Bateria Fácil: Pesadelo")
 (acc_easydrumteir6_desc
-   "Earn 5 <alt>*</alt> on five Nightmare songs on Drums."
+   "Ganhe 5 <alt>*</alt> em cinco músicas de Pesadelo na Bateria."
 )
-(acc_easydrumteir7 "Easy Impossible Drums")
+(acc_easydrumteir7 "Bateria Fácil: Impossível")
 (acc_easydrumteir7_desc
-   "Earn 5 <alt>*</alt> on ten Impossible songs on Drums."
+   "Ganhe 5 <alt>*</alt> em dez músicas de Impossível na Bateria."
 )
-(acc_easyguitarteir1 "Easy Warmup Guitar")
+(acc_easyguitarteir1 "Guitarra Fácil: Aquecimento")
 (acc_easyguitarteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Easy Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 na Guitarra Fácil."
 )
-(acc_easyguitarteir2 "Easy Apprentice Guitar")
+(acc_easyguitarteir2 "Guitarra Fácil: Aprendiz")
 (acc_easyguitarteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Easy Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 na Guitarra Fácil."
 )
-(acc_easyguitarteir3 "Easy Solid Guitar")
+(acc_easyguitarteir3 "Guitarra Fácil: Sólido")
 (acc_easyguitarteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Easy Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 na Guitarra Fácil."
 )
-(acc_easyguitarteir4 "Easy Moderate Guitar")
+(acc_easyguitarteir4 "Guitarra Fácil: Moderado")
 (acc_easyguitarteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Easy Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 na Guitarra Fácil."
 )
-(acc_easyguitarteir5 "Easy Challenging Guitar")
+(acc_easyguitarteir5 "Guitarra Fácil: Desafiador")
 (acc_easyguitarteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Easy Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 na Guitarra Fácil."
 )
-(acc_easyguitarteir6 "Easy Nightmare Guitar")
+(acc_easyguitarteir6 "Guitarra Fácil: Pesadelo")
 (acc_easyguitarteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Easy Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 na Guitarra Fácil."
 )
-(acc_easyguitarteir7 "Easy Impossible Guitar")
+(acc_easyguitarteir7 "Guitarra Fácil: Impossível")
 (acc_easyguitarteir7_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Impossible songs on Easy Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Impossível do Rock Band 3 na Guitarra Fácil."
 )
-(acc_easyharmonyvocalsteir1 "Easy Warmup Harmony Vocals")
+(acc_easyharmonyvocalsteir1 "Harmonias Fácil: Aquecimento")
 (acc_easyharmonyvocalsteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Easy Harmony Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 nas Harmonias Vocais Fácil."
 )
-(acc_easyharmonyvocalsteir2 "Easy Apprentice Harmony Vocals")
+(acc_easyharmonyvocalsteir2 "Harmonias Fácil: Aprendiz")
 (acc_easyharmonyvocalsteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Easy Harmony Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 nas Harmonias Vocais Fácil."
 )
-(acc_easyharmonyvocalsteir3 "Easy Solid Harmony Vocals")
+(acc_easyharmonyvocalsteir3 "Harmonias Fácil: Sólido")
 (acc_easyharmonyvocalsteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Easy Harmony Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 nas Harmonias Vocais Fácil."
 )
-(acc_easyharmonyvocalsteir4 "Easy Moderate Harmony Vocals")
+(acc_easyharmonyvocalsteir4 "Harmonias Fácil: Moderado")
 (acc_easyharmonyvocalsteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Easy Harmony Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 nas Harmonias Vocais Fácil."
 )
-(acc_easyharmonyvocalsteir5 "Easy Challenging Harmony Vocals")
+(acc_easyharmonyvocalsteir5 "Harmonias Fácil: Desafiador")
 (acc_easyharmonyvocalsteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Easy Harmony Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 nas Harmonias Vocais Fácil."
 )
-(acc_easyharmonyvocalsteir6 "Easy Nightmare Harmony Vocals")
+(acc_easyharmonyvocalsteir6 "Harmonias Fácil: Pesadelo")
 (acc_easyharmonyvocalsteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Easy Harmony Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 nas Harmonias Vocais Fácil."
 )
-(acc_easyharmonyvocalsteir7 "Easy Impossible Harmony Vocals")
+(acc_easyharmonyvocalsteir7 "Harmonias Fácil: Impossível")
 (acc_easyharmonyvocalsteir7_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Impossible songs on Easy Harmony Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Impossível do Rock Band 3 nas Harmonias Vocais Fácil."
 )
-(acc_easykeysteir1 "Easy Warmup Keys")
+(acc_easykeysteir1 "Teclado Fácil: Aquecimento")
 (acc_easykeysteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Easy Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 no Teclado Fácil."
 )
-(acc_easykeysteir2 "Easy Apprentice Keys")
+(acc_easykeysteir2 "Teclado Fácil: Aprendiz")
 (acc_easykeysteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Easy Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 no Teclado Fácil."
 )
-(acc_easykeysteir3 "Easy Solid Keys")
+(acc_easykeysteir3 "Teclado Fácil: Sólido")
 (acc_easykeysteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Easy Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 no Teclado Fácil."
 )
-(acc_easykeysteir4 "Easy Moderate Keys")
+(acc_easykeysteir4 "Teclado Fácil: Moderado")
 (acc_easykeysteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Easy Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 no Teclado Fácil."
 )
-(acc_easykeysteir5 "Easy Challenging Keys")
+(acc_easykeysteir5 "Teclado Fácil: Desafiador")
 (acc_easykeysteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Easy Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 no Teclado Fácil."
 )
-(acc_easykeysteir6 "Easy Nightmare Keys")
+(acc_easykeysteir6 "Teclado Fácil: Pesadelo")
 (acc_easykeysteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Easy Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 no Teclado Fácil."
 )
-(acc_easykeysteir7 "Easy Impossible Keys")
+(acc_easykeysteir7 "Teclado Fácil: Impossível")
 (acc_easykeysteir7_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Impossible songs on Easy Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Impossível do Rock Band 3 no Teclado Fácil."
 )
-(acc_easyprobassteir1 "Easy Warmup Pro Bass")
+(acc_easyprobassteir1 "Baixo PRO Fácil: Aquecimento")
 (acc_easyprobassteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Easy Pro Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 no Baixo PRO Fácil."
 )
-(acc_easyprobassteir2 "Easy Apprentice Pro Bass")
+(acc_easyprobassteir2 "Baixo PRO Fácil: Aprendiz")
 (acc_easyprobassteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Easy Pro Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 no Baixo PRO Fácil."
 )
-(acc_easyprobassteir3 "Easy Solid Pro Bass")
+(acc_easyprobassteir3 "Baixo PRO Fácil: Sólido")
 (acc_easyprobassteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Easy Pro Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 no Baixo PRO Fácil."
 )
-(acc_easyprobassteir4 "Easy Moderate Pro Bass")
+(acc_easyprobassteir4 "Baixo PRO Fácil: Moderado")
 (acc_easyprobassteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Easy Pro Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 no Baixo PRO Fácil."
 )
-(acc_easyprobassteir5 "Easy Challenging Pro Bass")
+(acc_easyprobassteir5 "Baixo PRO Fácil: Desafiador")
 (acc_easyprobassteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Easy Pro Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 no Baixo PRO Fácil."
 )
-(acc_easyprobassteir6 "Easy Nightmare Pro Bass")
+(acc_easyprobassteir6 "Baixo PRO Fácil: Pesadelo")
 (acc_easyprobassteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Easy Pro Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 no Baixo PRO Fácil."
 )
-(acc_easyprobassteir7 "Easy Impossible Pro Bass")
+(acc_easyprobassteir7 "Baixo PRO Fácil: Impossível")
 (acc_easyprobassteir7_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Impossible songs on Easy Pro Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Impossível do Rock Band 3 no Baixo PRO Fácil."
 )
-(acc_easyprodrumsteir1 "Easy Warmup Pro Drums")
+(acc_easyprodrumsteir1 "Bateria PRO Fácil: Aquecimento")
 (acc_easyprodrumsteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Easy Pro Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 na Bateria PRO Fácil."
 )
-(acc_easyprodrumsteir2 "Easy Apprentice Pro Drums")
+(acc_easyprodrumsteir2 "Bateria PRO Fácil: Aprendiz")
 (acc_easyprodrumsteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Easy Pro Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 na Bateria PRO Fácil."
 )
-(acc_easyprodrumsteir3 "Easy Solid Pro Drums")
+(acc_easyprodrumsteir3 "Bateria PRO Fácil: Sólido")
 (acc_easyprodrumsteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Easy Pro Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 na Bateria PRO Fácil."
 )
-(acc_easyprodrumsteir4 "Easy Moderate Pro Drums")
+(acc_easyprodrumsteir4 "Bateria PRO Fácil: Moderado")
 (acc_easyprodrumsteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Easy Pro Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 na Bateria PRO Fácil."
 )
-(acc_easyprodrumsteir5 "Easy Challenging Pro Drums")
+(acc_easyprodrumsteir5 "Bateria PRO Fácil: Desafiador")
 (acc_easyprodrumsteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Easy Pro Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 na Bateria PRO Fácil."
 )
-(acc_easyprodrumsteir6 "Easy Nightmare Pro Drums")
+(acc_easyprodrumsteir6 "Bateria PRO Fácil: Pesadelo")
 (acc_easyprodrumsteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Easy Pro Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 na Bateria PRO Fácil."
 )
-(acc_easyprodrumsteir7 "Easy Impossible Pro Drums")
+(acc_easyprodrumsteir7 "Bateria PRO Fácil: Impossível")
 (acc_easyprodrumsteir7_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Impossible songs on Easy Pro Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Impossível do Rock Band 3 na Bateria PRO Fácil."
 )
-(acc_easyproguitarteir1 "Easy Warmup Pro Guitar")
+(acc_easyproguitarteir1 "Guitarra PRO Fácil: Aquecimento")
 (acc_easyproguitarteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Easy Pro Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 na Guitarra PRO Fácil."
 )
-(acc_easyproguitarteir2 "Easy Apprentice Pro Guitar")
+(acc_easyproguitarteir2 "Guitarra PRO Fácil: Aprendiz")
 (acc_easyproguitarteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Easy Pro Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 na Guitarra PRO Fácil."
 )
-(acc_easyproguitarteir3 "Easy Solid Pro Guitar")
+(acc_easyproguitarteir3 "Guitarra PRO Fácil: Sólido")
 (acc_easyproguitarteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Easy Pro Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 na Guitarra PRO Fácil."
 )
-(acc_easyproguitarteir4 "Easy Moderate Pro Guitar")
+(acc_easyproguitarteir4 "Guitarra PRO Fácil: Moderado")
 (acc_easyproguitarteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Easy Pro Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 na Guitarra PRO Fácil."
 )
-(acc_easyproguitarteir5 "Easy Challenging Pro Guitar")
+(acc_easyproguitarteir5 "Guitarra PRO Fácil: Desafiador")
 (acc_easyproguitarteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Easy Pro Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 na Guitarra PRO Fácil."
 )
-(acc_easyproguitarteir6 "Easy Nightmare Pro Guitar")
+(acc_easyproguitarteir6 "Guitarra PRO Fácil: Pesadelo")
 (acc_easyproguitarteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Easy Pro Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 na Guitarra PRO Fácil."
 )
-(acc_easyproguitarteir7 "Easy Impossible Pro Guitar")
+(acc_easyproguitarteir7 "Guitarra PRO Fácil: Impossível")
 (acc_easyproguitarteir7_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Impossible songs on Easy Pro Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Impossível do Rock Band 3 na Guitarra PRO Fácil."
 )
-(acc_easyprokeysteir1 "Easy Warmup Pro Keys")
+(acc_easyprokeysteir1 "Teclado PRO Fácil: Aquecimento")
 (acc_easyprokeysteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Easy Pro Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 no Teclado PRO Fácil."
 )
-(acc_easyprokeysteir2 "Easy Apprentice Pro Keys")
+(acc_easyprokeysteir2 "Teclado PRO Fácil: Aprendiz")
 (acc_easyprokeysteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Easy Pro Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 no Teclado PRO Fácil."
 )
-(acc_easyprokeysteir3 "Easy Solid Pro Keys")
+(acc_easyprokeysteir3 "Teclado PRO Fácil: Sólido")
 (acc_easyprokeysteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Easy Pro Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 no Teclado PRO Fácil."
 )
-(acc_easyprokeysteir4 "Easy Moderate Pro Keys")
+(acc_easyprokeysteir4 "Teclado PRO Fácil: Moderado")
 (acc_easyprokeysteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Easy Pro Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 no Teclado PRO Fácil."
 )
-(acc_easyprokeysteir5 "Easy Challenging Pro Keys")
+(acc_easyprokeysteir5 "Teclado PRO Fácil: Desafiador")
 (acc_easyprokeysteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Easy Pro Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 no Teclado PRO Fácil."
 )
-(acc_easyprokeysteir6 "Easy Nightmare Pro Keys")
+(acc_easyprokeysteir6 "Teclado PRO Fácil: Pesadelo")
 (acc_easyprokeysteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Easy Pro Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 no Teclado PRO Fácil."
 )
-(acc_easyprokeysteir7 "Easy Impossible Pro Keys")
+(acc_easyprokeysteir7 "Teclado PRO Fácil: Impossível")
 (acc_easyprokeysteir7_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Impossible songs on Easy Pro Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Impossível do Rock Band 3 no Teclado PRO Fácil."
 )
-(acc_easyvocalsteir1 "Easy Warmup Vocals")
+(acc_easyvocalsteir1 "Vocal Fácil: Aquecimento")
 (acc_easyvocalsteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Easy Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 no Vocal Fácil."
 )
-(acc_easyvocalsteir2 "Easy Apprentice Vocals")
+(acc_easyvocalsteir2 "Vocal Fácil: Aprendiz")
 (acc_easyvocalsteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Easy Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 no Vocal Fácil."
 )
-(acc_easyvocalsteir3 "Easy Solid Vocals")
+(acc_easyvocalsteir3 "Vocal Fácil: Sólido")
 (acc_easyvocalsteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Easy Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 no Vocal Fácil."
 )
-(acc_easyvocalsteir4 "Easy Moderate Vocals")
+(acc_easyvocalsteir4 "Vocal Fácil: Moderado")
 (acc_easyvocalsteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Easy Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 no Vocal Fácil."
 )
-(acc_easyvocalsteir5 "Easy Challenging Vocals")
+(acc_easyvocalsteir5 "Vocal Fácil: Desafiador")
 (acc_easyvocalsteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Easy Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 no Vocal Fácil."
 )
-(acc_easyvocalsteir6 "Easy Nightmare Vocals")
+(acc_easyvocalsteir6 "Vocal Fácil: Pesadelo")
 (acc_easyvocalsteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Easy Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 no Vocal Fácil."
 )
-(acc_easyvocalsteir7 "Easy Impossible Vocals")
+(acc_easyvocalsteir7 "Vocal Fácil: Impossível")
 (acc_easyvocalsteir7_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Impossible songs on Easy Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Impossível do Rock Band 3 no Vocal Fácil."
 )
-(acc_eightypercentbass "Perfect Accuracy")
-(acc_eightypercentbass_desc "Hit 100% das notas em uma música on Bass.")
+(acc_eightypercentbass "Precisão Perfeita")
+(acc_eightypercentbass_desc "Acerte 100% das notas em uma música no Baixo.")
 (acc_endlesssetlist "Repertório Número 3")
 (acc_endlesssetlist_desc
    "Jogue todas as músicas do Rock Band 3 de uma vez só."
 )
-(acc_expertbandteir1 "Expert Warmup Band")
+(acc_expertbandteir1 "Banda Expert: Aquecimento")
 (acc_expertbandteir1_desc
-   "Get 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Expert as a Band."
+   "Conquiste 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 no Expert como Banda."
 )
-(acc_expertbandteir2 "Expert Apprentice Band")
+(acc_expertbandteir2 "Banda Expert: Aprendiz")
 (acc_expertbandteir2_desc
-   "Get 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Expert as a Band."
+   "Conquiste 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 no Expert como Banda."
 )
-(acc_expertbandteir3 "Expert Solid Band")
+(acc_expertbandteir3 "Banda Expert: Sólido")
 (acc_expertbandteir3_desc
-   "Get 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Expert as a Band."
+   "Conquiste 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 no Expert como Banda."
 )
-(acc_expertbandteir4 "Expert Moderate Band")
+(acc_expertbandteir4 "Banda Expert: Moderado")
 (acc_expertbandteir4_desc
-   "Get 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Expert as a Band."
+   "Conquiste 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 no Expert como Banda."
 )
-(acc_expertbandteir5 "Expert Challenging Band")
+(acc_expertbandteir5 "Banda Expert: Desafiador")
 (acc_expertbandteir5_desc
-   "Get 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Expert as a Band."
+   "Conquiste 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 no Expert como Banda."
 )
-(acc_expertbandteir6 "Expert Nightmare Band")
+(acc_expertbandteir6 "Banda Expert: Pesadelo")
 (acc_expertbandteir6_desc
-   "Get 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Expert as a Band."
+   "Conquiste 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 no Expert como Banda."
 )
-(acc_expertbandteir7 "Expert Impossible Band")
+(acc_expertbandteir7 "Banda Expert: Impossível")
 (acc_expertbandteir7_desc
-   "Get 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Expert as a Band."
+   "Conquiste 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 no Expert como Banda."
 )
-(acc_expertbassteir1 "Expert Warmup Bass")
+(acc_expertbassteir1 "Baixo Expert: Aquecimento")
 (acc_expertbassteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Expert Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 no Baixo Expert."
 )
-(acc_expertbassteir2 "Expert Apprentice Bass")
+(acc_expertbassteir2 "Baixo Expert: Aprendiz")
 (acc_expertbassteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Expert Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 no Baixo Expert."
 )
-(acc_expertbassteir3 "Expert Solid Bass")
+(acc_expertbassteir3 "Baixo Expert: Sólido")
 (acc_expertbassteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Expert Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 no Baixo Expert."
 )
-(acc_expertbassteir4 "Expert Moderate Bass")
+(acc_expertbassteir4 "Baixo Expert: Moderado")
 (acc_expertbassteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Expert Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 no Baixo Expert."
 )
-(acc_expertbassteir5 "Expert Challenging Bass")
+(acc_expertbassteir5 "Baixo Expert: Desafiador")
 (acc_expertbassteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Expert Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 no Baixo Expert."
 )
-(acc_expertbassteir6 "Expert Nightmare Bass")
+(acc_expertbassteir6 "Baixo Expert: Pesadelo")
 (acc_expertbassteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Expert Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 no Baixo Expert."
 )
-(acc_expertbassteir7 "Expert Impossible Bass")
+(acc_expertbassteir7 "Baixo Expert: Impossível")
 (acc_expertbassteir7_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Impossible songs on Expert Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Impossível do Rock Band 3 no Baixo Expert."
 )
-(acc_expertdrumsteir1 "Expert Warmup Drums")
+(acc_expertdrumsteir1 "Bateria Expert: Aquecimento")
 (acc_expertdrumsteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Expert Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 na Bateria Expert."
 )
-(acc_expertdrumsteir2 "Expert Apprentice Drums")
+(acc_expertdrumsteir2 "Bateria Expert: Aprendiz")
 (acc_expertdrumsteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Expert Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 na Bateria Expert."
 )
-(acc_expertdrumsteir3 "Expert Solid Drums")
+(acc_expertdrumsteir3 "Bateria Expert: Sólido")
 (acc_expertdrumsteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Expert Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 na Bateria Expert."
 )
-(acc_expertdrumsteir4 "Expert Moderate Drums")
+(acc_expertdrumsteir4 "Bateria Expert: Moderado")
 (acc_expertdrumsteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Expert Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 na Bateria Expert."
 )
-(acc_expertdrumsteir5 "Expert Challenging Drums")
+(acc_expertdrumsteir5 "Bateria Expert: Desafiador")
 (acc_expertdrumsteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Expert Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 na Bateria Expert."
 )
-(acc_expertdrumsteir6 "Expert Nightmare Drums")
+(acc_expertdrumsteir6 "Bateria Expert: Pesadelo")
 (acc_expertdrumsteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Expert Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 na Bateria Expert."
 )
-(acc_expertdrumsteir7 "Expert Impossible Drums")
+(acc_expertdrumsteir7 "Bateria Expert: Impossível")
 (acc_expertdrumsteir7_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Impossible songs on Expert Drums."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Impossível do Rock Band 3 na Bateria Expert."
 )
-(acc_expertdrumteir1 "Expert Warmup Drums")
+(acc_expertdrumteir1 "Bateria Expert: Aquecimento")
 (acc_expertdrumteir1_desc
-   "Earn 5 <alt>*</alt> on ten songs from either the Warmup or the Apprentice difficulty tier on Expert Drums."
+   "Ganhe 5 <alt>*</alt> em dez músicas da categoria de Aquecimento ou Aprendiz na Bateria Expert."
 )
-(acc_expertdrumteir2 "Expert Apprentice Drums")
+(acc_expertdrumteir2 "Bateria Expert: Aprendiz")
 (acc_expertdrumteir2_desc
-   "Earn 5 <alt>*</alt> on five Apprentice songs on Expert Drums."
+   "Ganhe 5 <alt>*</alt> em cinco músicas de Aprendiz na Bateria Expert."
 )
-(acc_expertdrumteir3 "Expert Solid Drums")
+(acc_expertdrumteir3 "Bateria Expert: Sólido")
 (acc_expertdrumteir3_desc
-   "Earn 5 <alt>*</alt> on ten songs from either the Solid or the Moderate difficulty tier on Expert Drums."
+   "Ganhe 5 <alt>*</alt> em dez músicas da categoria de Sólido ou Moderado na Bateria Expert."
 )
-(acc_expertdrumteir4 "Expert Moderate Drums")
+(acc_expertdrumteir4 "Bateria Expert: Moderado")
 (acc_expertdrumteir4_desc
-   "Earn 5 <alt>*</alt> on five Moderate songs on Expert Drums."
+   "Ganhe 5 <alt>*</alt> em cinco músicas de Moderado na Bateria Expert."
 )
-(acc_expertdrumteir5 "Expert Challenging Drums")
+(acc_expertdrumteir5 "Bateria Expert: Desafiador")
 (acc_expertdrumteir5_desc
-   "Earn 5 <alt>*</alt> on ten songs from either the Challenging or the Nightmare difficulty tier on Expert Drums."
+   "Ganhe 5 <alt>*</alt> em dez músicas da categoria de Desafiador ou Pesadelo na Bateria Expert."
 )
-(acc_expertdrumteir6 "Expert Nightmare Drums")
+(acc_expertdrumteir6 "Bateria Expert: Pesadelo")
 (acc_expertdrumteir6_desc
-   "Earn 5 <alt>*</alt> on five Nightmare songs on Expert Drums."
+   "Ganhe 5 <alt>*</alt> em cinco músicas de Pesadelo na Bateria Expert."
 )
-(acc_expertdrumteir7 "Expert Impossible Drums")
+(acc_expertdrumteir7 "Bateria Expert: Impossível")
 (acc_expertdrumteir7_desc
-   "Earn 5 <alt>*</alt> on ten Impossible songs on Expert Drums."
+   "Ganhe 5 <alt>*</alt> em dez músicas de Impossível na Bateria Expert."
 )
-(acc_expertguitarteir1 "Expert Warmup Guitar")
+(acc_expertguitarteir1 "Guitarra Expert: Aquecimento")
 (acc_expertguitarteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Expert Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 na Guitarra Expert."
 )
-(acc_expertguitarteir2 "Expert Apprentice Guitar")
+(acc_expertguitarteir2 "Guitarra Expert: Aprendiz")
 (acc_expertguitarteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Expert Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 na Guitarra Expert."
 )
-(acc_expertguitarteir3 "Expert Solid Guitar")
+(acc_expertguitarteir3 "Guitarra Expert: Sólido")
 (acc_expertguitarteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Expert Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 na Guitarra Expert."
 )
-(acc_expertguitarteir4 "Expert Moderate Guitar")
+(acc_expertguitarteir4 "Guitarra Expert: Moderado")
 (acc_expertguitarteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Expert Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 na Guitarra Expert."
 )
-(acc_expertguitarteir5 "Expert Challenging Guitar")
+(acc_expertguitarteir5 "Guitarra Expert: Desafiador")
 (acc_expertguitarteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Expert Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 na Guitarra Expert."
 )
-(acc_expertguitarteir6 "Expert Nightmare Guitar")
+(acc_expertguitarteir6 "Guitarra Expert: Pesadelo")
 (acc_expertguitarteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Expert Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 na Guitarra Expert."
 )
-(acc_expertguitarteir7 "Expert Impossible Guitar")
+(acc_expertguitarteir7 "Guitarra Expert: Impossível")
 (acc_expertguitarteir7_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Impossible songs on Expert Guitar."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Impossível do Rock Band 3 na Guitarra Expert."
 )
-(acc_expertharmonyvocalsteir1 "Expert Warmup Harmony Vocals")
+(acc_expertharmonyvocalsteir1 "Harmonias Expert: Aquecimento")
 (acc_expertharmonyvocalsteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Expert Harmony Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 nas Harmonias Vocais Expert."
 )
-(acc_expertharmonyvocalsteir2 "Expert Apprentice Harmony Vocals")
+(acc_expertharmonyvocalsteir2 "Harmonias Expert: Aprendiz")
 (acc_expertharmonyvocalsteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Expert Harmony Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 nas Harmonias Vocais Expert."
 )
-(acc_expertharmonyvocalsteir3 "Expert Solid Harmony Vocals")
+(acc_expertharmonyvocalsteir3 "Harmonias Expert: Sólido")
 (acc_expertharmonyvocalsteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Expert Harmony Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 nas Harmonias Vocais Expert."
 )
-(acc_expertharmonyvocalsteir4 "Expert Moderate Harmony Vocals")
+(acc_expertharmonyvocalsteir4 "Harmonias Expert: Moderado")
 (acc_expertharmonyvocalsteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Expert Harmony Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 nas Harmonias Vocais Expert."
 )
-(acc_expertharmonyvocalsteir5 "Expert Challenging Harmony Vocals")
+(acc_expertharmonyvocalsteir5 "Harmonias Expert: Desafiador")
 (acc_expertharmonyvocalsteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Expert Harmony Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 nas Harmonias Vocais Expert."
 )
-(acc_expertharmonyvocalsteir6 "Expert Nightmare Harmony Vocals")
+(acc_expertharmonyvocalsteir6 "Harmonias Expert: Pesadelo")
 (acc_expertharmonyvocalsteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Expert Harmony Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 nas Harmonias Vocais Expert."
 )
-(acc_expertharmonyvocalsteir7 "Expert Impossible Harmony Vocals")
+(acc_expertharmonyvocalsteir7 "Harmonias Expert: Impossível")
 (acc_expertharmonyvocalsteir7_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Impossible songs on Expert Harmony Vocals."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Impossível do Rock Band 3 nas Harmonias Vocais Expert."
 )
-(acc_expertkeysteir1 "Expert Warmup Keys")
+(acc_expertkeysteir1 "Teclado Expert: Aquecimento")
 (acc_expertkeysteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Expert Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 no Teclado Expert."
 )
-(acc_expertkeysteir2 "Expert Apprentice Keys")
+(acc_expertkeysteir2 "Teclado Expert: Aprendiz")
 (acc_expertkeysteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Expert Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 no Teclado Expert."
 )
-(acc_expertkeysteir3 "Expert Solid Keys")
+(acc_expertkeysteir3 "Teclado Expert: Sólido")
 (acc_expertkeysteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Expert Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 no Teclado Expert."
 )
-(acc_expertkeysteir4 "Expert Moderate Keys")
+(acc_expertkeysteir4 "Teclado Expert: Moderado")
 (acc_expertkeysteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Expert Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 no Teclado Expert."
 )
-(acc_expertkeysteir5 "Expert Challenging Keys")
+(acc_expertkeysteir5 "Teclado Expert: Desafiador")
 (acc_expertkeysteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Expert Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 no Teclado Expert."
 )
-(acc_expertkeysteir6 "Expert Nightmare Keys")
+(acc_expertkeysteir6 "Teclado Expert: Pesadelo")
 (acc_expertkeysteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Expert Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 no Teclado Expert."
 )
-(acc_expertkeysteir7 "Expert Impossible Keys")
+(acc_expertkeysteir7 "Teclado Expert: Impossível")
 (acc_expertkeysteir7_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Impossible songs on Expert Keys."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Impossível do Rock Band 3 no Teclado Expert."
 )
-(acc_expertpercent "Flawless Expert")
+(acc_expertpercent "Expert Impecável")
 (acc_expertpercent_desc
-   "Hit 100% das notas or phrases on any instrument on Expert."
+   "Acerte 100% das notas ou frases em qualquer instrumento no Expert."
 )
-(acc_expertprobassteir1 "Expert Warmup Pro Bass")
+(acc_expertprobassteir1 "Baixo PRO Expert: Aquecimento")
 (acc_expertprobassteir1_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Warmup songs on Expert Pro Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aquecimento do Rock Band 3 no Baixo PRO Expert."
 )
-(acc_expertprobassteir2 "Expert Apprentice Pro Bass")
+(acc_expertprobassteir2 "Baixo PRO Expert: Aprendiz")
 (acc_expertprobassteir2_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Apprentice songs on Expert Pro Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Aprendiz do Rock Band 3 no Baixo PRO Expert."
 )
-(acc_expertprobassteir3 "Expert Solid Pro Bass")
+(acc_expertprobassteir3 "Baixo PRO Expert: Sólido")
 (acc_expertprobassteir3_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Solid songs on Expert Pro Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Sólido do Rock Band 3 no Baixo PRO Expert."
 )
-(acc_expertprobassteir4 "Expert Moderate Pro Bass")
+(acc_expertprobassteir4 "Baixo PRO Expert: Moderado")
 (acc_expertprobassteir4_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Moderate songs on Expert Pro Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Moderado do Rock Band 3 no Baixo PRO Expert."
 )
-(acc_expertprobassteir5 "Expert Challenging Pro Bass")
+(acc_expertprobassteir5 "Baixo PRO Expert: Desafiador")
 (acc_expertprobassteir5_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Challenging songs on Expert Pro Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Desafiador do Rock Band 3 no Baixo PRO Expert."
 )
-(acc_expertprobassteir6 "Expert Nightmare Pro Bass")
+(acc_expertprobassteir6 "Baixo PRO Expert: Pesadelo")
 (acc_expertprobassteir6_desc
-   "Earn 3 <alt>*</alt> on all of the Rock Band 3 Nightmare songs on Expert Pro Bass."
+   "Ganhe 3 <alt>*</alt> em todas as músicas de Pesadelo do Rock Band 3 no Baixo PRO Expert."
 )
 (acc_expertprobassteir7 "Expert Impossible Pro Bass")
 (acc_expertprobassteir7_desc
